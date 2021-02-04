@@ -1,2 +1,2 @@
 # tip-calculator
-tip calculator concept with javascript
+This is my shot at a tip-calculator
