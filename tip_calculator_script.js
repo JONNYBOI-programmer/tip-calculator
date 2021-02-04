@@ -1,5 +1,5 @@
 /* 
--Me just messing around with some code
+Just messing around with some code
 
 function calcTip(bill) {
   if (bill >= 50 && bill <= 300) {
@@ -25,7 +25,7 @@ if (bills === Array) {
 // const billValue = Number(document.querySelector('.bill-value').value);           NOTE: Doesn't work outside of 'click' event handler.
 // const percentageValue = Number(document.querySelector('.bill-value').value);
 
-// Misc variables
+// Variables
 const btnCheck = document.querySelector('.btn-check-tip');
 let tip;
 
